@@ -1,4 +1,12 @@
-# ReduxApp
+### Instalacion
+clone el repositorio y desde la consola ejecute 'npm install'
+
+### Material de la sección
+Para esta sección, se ha usado 
+- [TODO APP - CSS](https://github.com/Klerith/TODO-CSS-Template)
+Si estas haciendo el curso. Para instalarlo ejecuta 'npm install todomvc-app-css --save'
+
+# Todoapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
 
